@@ -6,3 +6,10 @@ hasil deloy
 link meja : https://ceritacoffetebet.infinityfree.me/pelanggan/index.php?meja=1
 
 link login karyawan & admin : https://ceritacoffetebet.infinityfree.me/login.php
+karyawan 
+username : karyawan1
+password : karyawan123
+
+admin
+username : admin
+password : admin123
